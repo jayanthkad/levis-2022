@@ -1,0 +1,20 @@
+c ; ;mc;d
+c
+
+cd
+cd\
+c
+c
+d\c
+d\
+cdc
+
+c\d
+dc
+d\
+c\dc
+
+f\vv
+r\c,dc\c
+c,cd,cd,c
+c\rcdldc,d]ldcccccc
